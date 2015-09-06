@@ -23,7 +23,7 @@ The 2nd International Workshop on Wireless Communications for High Speed Railway
 -	Future intelligent transportation systems and applications forHSRs<br>
 -	Dedicated HSR radio network and system architectures<br>
 -	Other related topics<br>
--	
+
 ###Workshop Background
 High speed railway (HSR) has recently attracted muchinterest due to its capability of transporting largeamounts of customers with great comfort and high energyefficiency. Since the first HSR line Shinkansen was builtin Japan in 1964, the HSR has made great progress in France,Germany, Spain, and now in China. The operative railway lines in Chinawill be up to 120,000 km long by 2020, including over 16,000km HSR lines. The government investment on this will bearound 330 billion dollars.
 
