@@ -8,4 +8,15 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-TBA
+General Chair
+- Prof. Zhangdui Zhong, Beijing Jiaotong University, Beijing, China
+General Co-Chair
+-	Prof. Bo Ai, Beijing Jiaotong University, Beijing, China
+TPC Co-Chairs
+-	Prof. Andreas F. Molisch, University of Southern California, USA
+-	Prof. David W. Matolak, University of South Carolina, USA
+-	Prof. Xiang Cheng, Peking University, Beijing, China
+-	Prof. Xuefeng Yin, Tongji University, China
+-	Prof. Zan Li, Xidian University, China
+Organization and Publicity Chair
+-	Prof. Ruisi He, Beijing Jiaotong University, China
