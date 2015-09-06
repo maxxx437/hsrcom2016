@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: Home
+  url: /mainpage/
+
 - title: Organizer & Chairs
   url: /chairs/
 
@@ -13,6 +16,3 @@
 
 - title: Keynote Speakers
   url: /keynotes/
-
-- title: Author Inforamtion
-  url: /authors/
