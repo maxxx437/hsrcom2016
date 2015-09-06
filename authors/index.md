@@ -7,9 +7,8 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-<br>
-General Chair
-- Prof. Zhangdui Zhong, Beijing Jiaotong University, Beijing, China
+
+General Chair<br>- Prof. Zhangdui Zhong, Beijing Jiaotong University, Beijing, China
 <br><br>General Co-Chair
 -	Prof. Bo Ai, Beijing Jiaotong University, Beijing, China
 <br><br>TPC Co-Chairs
