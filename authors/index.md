@@ -9,13 +9,6 @@ image:
 ---
 
 General Chair<br>- Prof. Zhangdui Zhong, Beijing Jiaotong University, Beijing, China
-<br><br>General Co-Chair
--	Prof. Bo Ai, Beijing Jiaotong University, Beijing, China
-<br><br>TPC Co-Chairs
--	Prof. Andreas F. Molisch, University of Southern California, USA
--	Prof. David W. Matolak, University of South Carolina, USA
--	Prof. Xiang Cheng, Peking University, Beijing, China
--	Prof. Xuefeng Yin, Tongji University, China
--	Prof. Zan Li, Xidian University, China
-<br><br>Organization and Publicity Chair
--	Prof. Ruisi He, Beijing Jiaotong University, China
+<br><br>General Co-Chair<br>-	Prof. Bo Ai, Beijing Jiaotong University, Beijing, China
+<br><br>TPC Co-Chairs<br>-	Prof. Andreas F. Molisch, University of Southern California, USA<br>-	Prof. David W. Matolak, University of South Carolina, USA<br>-	Prof. Xiang Cheng, Peking University, Beijing, China<br>-	Prof. Xuefeng Yin, Tongji University, China<br>-	Prof. Zan Li, Xidian University, China
+<br><br>Organization and Publicity Chair<br>-	Prof. Ruisi He, Beijing Jiaotong University, China
