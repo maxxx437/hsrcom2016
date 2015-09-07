@@ -19,6 +19,7 @@ image:
 -	Prof. Miaowen Wen, South China University of Technology, China
 -	Prof. Wei Fan, Aalborg University, Denmark
 -	Prof. Wei Chen, Beijing Jiaotong University, China
+-	Prof. Haneda Katsuyuki, Aalto University, Finland
 -	Prof. Ke Guan, Beijing Jiaotong University, China
 -	Prof. Zhengguo Sheng, University of Sussex, UK
 -	Dr. MingmingGan, ForschungszentrumTelekommunikation Wien, Austria
