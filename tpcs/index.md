@@ -10,6 +10,7 @@ image:
 ###   Technical Program Committee List
 -	Prof. Claude Oestges, UniversitéCatholique de Louvain, Belgium
 -	Prof. Sana Salous, Durham University, UK
+-	Prof. Meixia Tao, Shanghai Jiaotong University
 -	Prof. BuonKiong Lau, Lund University, Sweden
 -	Prof. Gongpu Wang, Beijing Jiaotong University, China
 -	Prof. Wei Wang, German Aerospace Center, Germany
