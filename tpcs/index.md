@@ -10,8 +10,9 @@ image:
 ###   Technical Program Committee List
 -	Prof. Claude Oestges, UniversitéCatholique de Louvain, Belgium
 -	Prof. Sana Salous, Durham University, UK
--	Prof. Meixia Tao, Shanghai Jiaotong University
+-	Prof. Meixia Tao, Shanghai Jiaotong University, China
 -	Prof. BuonKiong Lau, Lund University, Sweden
+-	Prof. Yiqing Zhou, Chinese Academy of Sciences， China
 -	Prof. Gongpu Wang, Beijing Jiaotong University, China
 -	Prof. Wei Wang, German Aerospace Center, Germany
 -	Prof. Fanggang Wang, Beijing Jiaotong University, China
@@ -19,7 +20,7 @@ image:
 -	Prof. Miaowen Wen, South China University of Technology, China
 -	Prof. Wei Fan, Aalborg University, Denmark
 -	Prof. Wei Chen, Beijing Jiaotong University, China
--	Prof. Haneda Katsuyuki, Aalto University, Finland
+-	Prof. Katsuyuki Haneda, Aalto University, Finland
 -	Prof. Ke Guan, Beijing Jiaotong University, China
 -	Prof. Zhengguo Sheng, University of Sussex, UK
 -	Dr. MingmingGan, ForschungszentrumTelekommunikation Wien, Austria
