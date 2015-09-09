@@ -7,7 +7,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-![HomePic](images/pic1.jpg)<br><br>
+
 The 2nd International Workshop on Wireless Communications for High Speed Railways (HSRCom2016) will be held during May 15-18 2016. This workshop is affiliated with the 2016 IEEE 83rd Vehicular Technology Conference which will be held in Nanjing, China. Perspective authors are welcomed to submit 5 pages original and unpublished full papers on the following technical tracks:<br><br>
 - Dynamic channel simulation, measurement and modeling for HSRs<br>
 -	Space-time coding, beamforming, MIMO, massive-MIMO forHSRs<br>
