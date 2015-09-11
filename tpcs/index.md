@@ -12,7 +12,7 @@ image:
 -	Prof. Sana Salous, Durham University, UK
 -	Prof. Meixia Tao, Shanghai Jiaotong University, China
 -	Prof. BuonKiong Lau, Lund University, Sweden
--	Prof. Yiqing Zhou, Chinese Academy of Sciences， China
+-	Prof. Yiqing Zhou, Chinese Academy of Sciences, China
 -	Prof. Gongpu Wang, Beijing Jiaotong University, China
 -	Prof. Wei Wang, German Aerospace Center, Germany
 -	Prof. Fanggang Wang, Beijing Jiaotong University, China
