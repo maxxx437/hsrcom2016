@@ -15,7 +15,7 @@ The 2nd International Workshop on Wireless Communications for High Speed Railway
 -	Physical layer and fundamentals for wirelesscommunication with high mobility<br>
 -	Fast power control, handover, localization for HSRs<br>
 -	Relay and cooperative techniques for HSR systems<br>
--	Mobile, wireless, and greennetworking for HSRs<br>
+-	Mobile, wireless, and green networking for HSRs<br>
 -	Signal processing for wireless communications with high mobility<br>
 -	Performance limits and system capacity for HSR wireless communications<br>
 -	4G/5G key technologies and their applications for HSRs<br>
