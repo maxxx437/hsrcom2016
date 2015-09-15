@@ -23,7 +23,7 @@ image:
 -	Prof. Katsuyuki Haneda, Aalto University, Finland
 -	Prof. Ke Guan, Beijing Jiaotong University, China
 -	Prof. Zhengguo Sheng, University of Sussex, UK
--	Dr. MingmingGan, ForschungszentrumTelekommunikation Wien, Austria
+-	Dr. Mingming Gan, Forschungszentrum Telekommunikation Wien, Austria
 -	Prof. Cesar Briso-Rodriquez, Technical University of Madrid, Madrid, Spain
 -	Prof. Tingting Zhang, Harbin Institute of Technology, Shenzhen Graduate School, China
 -	Dr. Rui Wang, University of Southern California, USA
