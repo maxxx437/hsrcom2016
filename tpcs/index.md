@@ -16,7 +16,7 @@ image:
 -	Prof. Gongpu Wang, Beijing Jiaotong University, China
 -	Prof. Wei Wang, German Aerospace Center, Germany
 -	Prof. Fanggang Wang, Beijing Jiaotong University, China
--	Prof. Thomas Zemen, Austrian Institute of Technology
+-	Prof. Thomas Zemen, AIT Austrian Institute of Technology, Austria
 -	Prof. Miaowen Wen, South China University of Technology, China
 -	Prof. Wei Fan, Aalborg University, Denmark
 -	Prof. Wei Chen, Beijing Jiaotong University, China
