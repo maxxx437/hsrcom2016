@@ -355,9 +355,9 @@ $button-size: 1.5rem;
   display: block;
   margin-bottom: 5px;
   @include font-rem(14);
-  color: $blue;
+  color: $black;
   &:visited {
-    color: $red;
+    color: $black;
   }
   &:hover {
     @include scale(1.1);
