@@ -9,6 +9,7 @@ image:
 ---
 
 ![](https://github.com/maxxx437/hsrcom2016/blob/gh-pages/images/RuiZhang.JPG)
+<br>
 **Dr. Rui Zhang**<br>
 National University of Singapore
 <br>
