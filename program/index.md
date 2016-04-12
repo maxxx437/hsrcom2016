@@ -7,7 +7,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-###2nd International Workshop on Wireless Communications for High Speed Railways (HSRCom2016)--Draft Program
+###   2nd International Workshop on Wireless Communications for High Speed Railways (HSRCom2016)--Draft Program
 **General chair:** Prof. Zhangdui Zhong, Prof. Bo Ai, Beijing Jiaotong University, Beijing, China<br>
 **Organization and publicity chair:** Prof. Ruisi He, Beijing Jiaotong University, Beijing, China<br>
 **Session chair:** Prof. Bo Ai, Beijing Jiaotong University, Beijing, China<br>
