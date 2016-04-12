@@ -64,6 +64,7 @@ Title: Research on Duplex Mode of Railway Next Generation Wireless Communication
 
 
 ####   Poster Session:
+
 #####   Poster 1
 Title: Compressive Sensing based Multi-User Detection Under High Mobility Scenario<br>
 *Authors: Guoyu Ma, Beijing Jiaotong University, China; Bo Ai, Beijing Jiaotong University, China; Fanggang Wang, Beijing Jiaotong University, China; and Xianan Hu, Beijing Jiaotong University, China*
