@@ -31,9 +31,9 @@ Title: Propagation Characteristics of Mobile Channel in Urban Micro-cells at 3.5
 
 #####   Oral Presentation 3 (14:26-14:44)
 Title: Channel Characterization for Mobile Hotspot Network in Subway Tunnels at 30 GHz Band<br>
-*Authors: Guangkai Li, Beijing Jiaotong University, China; Bo Ai, Beijing Jiaotong University, China; Ke Guan, Beijing Jiaotong University, China; Ruisi He, Beijing Jiaotong University, China; Zhangdui Zhong, Beijing Jiaotong University, China; Bing Hui, Communications Internet Research Laboratory, ElectronicsTelecommunications Research Institute, Korea, Republic of; and Junhyeong Kim, Communications Internet Research Laboratory, Electronics and Telecommunications Research Institute, Republic of Korea*
+*Authors: Guangkai Li, Beijing Jiaotong University, China; Bo Ai, Beijing Jiaotong University, China; Ke Guan, Beijing Jiaotong University, China; Ruisi He, Beijing Jiaotong University, China; Zhangdui Zhong, Beijing Jiaotong University, China; Bing Hui, Communications Internet Research Laboratory, ElectronicsTelecommunications Research Institute, Korea, Republic of; and Junhyeong Kim, Communications Internet Research Laboratory, Electronics and Telecommunications Research Institute, Republic of Korea*<br>
 
-<br>
+
 ####   Coffee Break (TBD)
 <br>
 
