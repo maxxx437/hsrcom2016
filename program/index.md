@@ -89,5 +89,6 @@ Title: Inter-Vehicle Cooperative Channel Estimation for IEEE802.11p Systems<br>
 
 #####Poster 7
 Title: Wireless communication for heavy haul railway tunnels based on distributed antenna systems<br> 
-*Authors: Tianluan Shuo, State Key Laboratory of Rail Traffic Control and Safety, China; Ke Zhao, State Key Laboratory of Rail Traffic Control and Safety, China; and Hao Wu, State Key Laboratory of Rail Traffic Control and Safety, China*
+*Authors: Tianluan Shuo, State Key Laboratory of Rail Traffic Control and Safety, China; Ke Zhao, State Key Laboratory of Rail Traffic Control and Safety, China; and Hao Wu, State Key Laboratory of Rail Traffic Control and Safety, China*<br><br><br>
 
+Program Update Time: Apr. 12, 2016
