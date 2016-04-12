@@ -35,7 +35,7 @@ Title: Channel Characterization for Mobile Hotspot Network in Subway Tunnels at 
 
 
 ####   Coffee Break (TBD)
-<br>
+
 
 #####   Oral Presentation 4 (14:44-15:02)
 Title: Channel Characteristics for High-speed-train in Non-tunnel and Tunnel Scenarios under LTE-A Networks<br>
