@@ -8,7 +8,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-![](https://github.com/maxxx437/hsrcom2016/blob/gh-pages/images/RuiZhang.JPG)
+![](https://raw.githubusercontent.com/maxxx437/hsrcom2016/gh-pages/images/RuiZhang.JPG)
 <br>
 **Dr. Rui Zhang**<br>
 National University of Singapore
