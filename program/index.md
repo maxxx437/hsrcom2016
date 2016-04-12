@@ -34,8 +34,7 @@ Title: Channel Characterization for Mobile Hotspot Network in Subway Tunnels at 
 *Authors: Guangkai Li, Beijing Jiaotong University, China; Bo Ai, Beijing Jiaotong University, China; Ke Guan, Beijing Jiaotong University, China; Ruisi He, Beijing Jiaotong University, China; Zhangdui Zhong, Beijing Jiaotong University, China; Bing Hui, Communications Internet Research Laboratory, ElectronicsTelecommunications Research Institute, Korea, Republic of; and Junhyeong Kim, Communications Internet Research Laboratory, Electronics and Telecommunications Research Institute, Republic of Korea*
 
 
-####   Coffee Break (TBD)
-<br>
+####   Coffee Break (TBD)<br>
 
 
 #####   Oral Presentation 4 (14:44-15:02)
