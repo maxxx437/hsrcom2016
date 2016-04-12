@@ -20,6 +20,7 @@ Title: Wireless communications with unmanned aerial vehicles: opportunities and 
 *Prof. Rui Zhang, National University of Singapore*
 
 ####   Oral Session:
+
 #####   Oral Presentation 1 (13:50-14:08)
 Title: Channel Estimation with New Basis Expansion Model for Wireless Communications on High Speed Railway<br>
 *Authors: Xiyu Wang, Beijing Key Lab of Transportation Data Analysis and Mining, Beijing Jiaotong University, Beijing, China; Gongpu Wang, Beijing Key Lab of Transportation Data Analysis and Mining, Beijing Jiaotong University, Beijing, China; Jingyuan Sun, Technology & Innovation/ Research/ Radio system Beijing, Nokia Company, China; and Yulong Zou, Institute of Signal Processing and Transmission, Nanjing University of Posts and Telecommunications, China*
