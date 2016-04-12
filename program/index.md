@@ -20,7 +20,7 @@ Title: Wireless communications with unmanned aerial vehicles: opportunities and 
 *Prof. Rui Zhang, National University of Singapore*
 
 ####Oral Session:
-#####-Oral Presentation 1 (13:50-14:08)
+#####Oral Presentation 1 (13:50-14:08)
 Title: Channel Estimation with New Basis Expansion Model for Wireless Communications on High Speed Railway<br>
 *Authors: Xiyu Wang, Beijing Key Lab of Transportation Data Analysis and Mining, Beijing Jiaotong University, Beijing, China; Gongpu Wang, Beijing Key Lab of Transportation Data Analysis and Mining, Beijing Jiaotong University, Beijing, China; Jingyuan Sun, Technology & Innovation/ Research/ Radio system Beijing, Nokia Company, China; and Yulong Zou, Institute of Signal Processing and Transmission, Nanjing University of Posts and Telecommunications, China*
 
@@ -33,7 +33,7 @@ Title: Channel Characterization for Mobile Hotspot Network in Subway Tunnels at 
 *Authors: Guangkai Li, Beijing Jiaotong University, China; Bo Ai, Beijing Jiaotong University, China; Ke Guan, Beijing Jiaotong University, China; Ruisi He, Beijing Jiaotong University, China; Zhangdui Zhong, Beijing Jiaotong University, China; Bing Hui, Communications Internet Research Laboratory, ElectronicsTelecommunications Research Institute, Korea, Republic of; and Junhyeong Kim, Communications Internet Research Laboratory, Electronics and Telecommunications Research Institute, Republic of Korea*<br><br>
 
 
-<font color=#FF0000>**Coffee Break (TBD)**</font><br><br>
+**Coffee Break (TBD)**<br><br>
 
 
 #####Oral Presentation 4 (14:44-15:02)
