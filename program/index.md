@@ -12,6 +12,7 @@ image:
 **Organization and publicity chair:** Prof. Ruisi He, Beijing Jiaotong University, Beijing, China<br>
 **Session chair:** Prof. Bo Ai, Beijing Jiaotong University, Beijing, China<br>
 **Workshop time:** Sunday, 15 May 2016 13:00-17:30<br>
+**Workshop Location:** Room Liu He
 
 
 
@@ -93,4 +94,4 @@ Title: Inter-Vehicle Cooperative Channel Estimation for IEEE802.11p Systems<br>
 Title: Wireless communication for heavy haul railway tunnels based on distributed antenna systems<br> 
 *Authors: Tianluan Shuo, State Key Laboratory of Rail Traffic Control and Safety, China; Ke Zhao, State Key Laboratory of Rail Traffic Control and Safety, China; and Hao Wu, State Key Laboratory of Rail Traffic Control and Safety, China*<br><br><br>
 
-Program Update Time: Apr. 12, 2016
+Program Update Time: May 3, 2016
