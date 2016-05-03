@@ -22,8 +22,8 @@ Title: Wireless communications with unmanned aerial vehicles: opportunities and 
 ####   Oral Session:
 
 #####   Oral Presentation 1 (13:50-14:08)
-Title: Channel Estimation with New Basis Expansion Model for Wireless Communications on High Speed Railway<br>
-*Authors: Xiyu Wang, Beijing Key Lab of Transportation Data Analysis and Mining, Beijing Jiaotong University, Beijing, China; Gongpu Wang, Beijing Key Lab of Transportation Data Analysis and Mining, Beijing Jiaotong University, Beijing, China; Jingyuan Sun, Technology & Innovation/ Research/ Radio system Beijing, Nokia Company, China; and Yulong Zou, Institute of Signal Processing and Transmission, Nanjing University of Posts and Telecommunications, China*
+Title: Research on Duplex Mode of Railway Next Generation Wireless Communication<br>
+*Authors: Wei Wang, ZTE corporation; Jianlin Guo, ZTE corporation*
 
 #####   Oral Presentation 2 (14:08-14:26)
 Title: Propagation Characteristics of Mobile Channel in Urban Micro-cells at 3.5 GHz and 6 GHz<br>
@@ -58,8 +58,8 @@ Title: TD-LTE Downlink Performance Assessment in High Speed Scenarios<br>
 *Authors: Dan Fei, State Key Laboratory of Rail Traffic ControlSafety, Beijing Jiaotong University, China; José Rodríguez-Piñeiro, GTEC, Dep. Elect. & Sist., Fac. Informática, Univ. A Coruña, Spain; José A. García-Naya, GTEC, Dep. Elect. & Sist., Fac. Informática, Univ. A Coruña, Spain; Luis Castedo, GTEC, Dep. Elect. & Sist., Fac. Informática, Univ. A Coruña, Spain; Ke Guan, State Key Laboratory of Rail Traffic ControlSafety, Beijing Jiaotong University, China; and Lei Xiong, State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong University, China*
 
 #####   Oral Presentation 9 (16:14-16:32)
-Title: Research on Duplex Mode of Railway Next Generation Wireless Communication<br>
-*Authors: Wei Wang, ZTE corporation; Jianlin Guo, ZTE corporation*
+Title: Channel Estimation with New Basis Expansion Model for Wireless Communications on High Speed Railway<br>
+*Authors: Xiyu Wang, Beijing Key Lab of Transportation Data Analysis and Mining, Beijing Jiaotong University, Beijing, China; Gongpu Wang, Beijing Key Lab of Transportation Data Analysis and Mining, Beijing Jiaotong University, Beijing, China; Jingyuan Sun, Technology & Innovation/ Research/ Radio system Beijing, Nokia Company, China; and Yulong Zou, Institute of Signal Processing and Transmission, Nanjing University of Posts and Telecommunications, China*
 
 
 
